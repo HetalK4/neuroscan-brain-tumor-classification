@@ -87,7 +87,7 @@ user to upload an MRI image and receive:
 
 ## Repository Contents
 
-- `NeuroScan_Data_Preprocessing_ModelDevelopment_Evaluation.ipynb` — full notebook covering
+- `Final_DataCollectionAndPreprocessing_ModelDevelopment_Evaluation.ipynb` — full notebook covering
   data pipeline, model training, and evaluation (see role breakdown above for what's mine)
 - `requirements.txt` — Python dependencies
 - `LICENSE` — MIT License
